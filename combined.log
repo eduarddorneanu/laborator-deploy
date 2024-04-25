@@ -1,0 +1,43 @@
+{"level":"info","message":"Creating task for user with id: 3"}
+{"level":"info","message":"Retrieving task with id: 12"}
+{"level":"info","message":"Retrieving task with id: 20"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Creating task for user with id: 3"}
+{"level":"info","message":"Creating task for user with id: 3"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"info","message":"Retrieving task with id: 1"}
+{"level":"error","message":{"errorMessage":"No task with id.","statusCode":400}}
+{"level":"info","message":"Retrieving task with id: 1"}
